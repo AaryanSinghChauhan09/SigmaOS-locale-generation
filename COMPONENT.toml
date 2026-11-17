@@ -3,7 +3,7 @@ name = "SigmaOS-locale-generation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "locale-generation component"
+description = "Locale Generation"
 upstream = []
 
 [contract]
